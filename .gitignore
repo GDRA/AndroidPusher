@@ -1,0 +1,10 @@
+.idea
+*.apk
+out
+gen
+*.iml
+*.DS_Store
+bin
+.project
+
+classes
